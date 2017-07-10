@@ -10,7 +10,7 @@ var last = colors[colors.length - 1]
 favoriteColors = []
 
 // Create a `for` loop that adds each string in `colors` to `favoriteColors`.
-for (var i = 0; i < favoriteColors.length; i++) {
+for (var i = 0; i < colors.length; i++) {
   favoriteColors[i] = colors[i]
 }
 

@@ -12,7 +12,7 @@ class Playlist {
   }
 
   addSong (song) {
-    songs.push(song)
+    this.songs.push(song)
   }
 }
 
